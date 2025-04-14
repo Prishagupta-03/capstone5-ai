@@ -25,7 +25,8 @@ SECRET_KEY = "django-insecure-aa4r*&1mnzxnb3((^jdazle#q0)q+j8#55h6@51vw4f$&@v(tm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['capstone5-ai.onrender.com', '127.0.0.1', 'localhost']
+
 
 
 # Application definition
