@@ -29,6 +29,16 @@ This project demonstrates the complete lifecycle of a machine learning model —
 
 ---
 
+
+Example(content to post)
+{
+  "CarCount": 30,
+  "BikeCount": 50,
+  "BusCount": 4,
+  "TruckCount": 5
+}
+
+
 ## 🧪 API Usage
 
 ### 📌 Endpoint
